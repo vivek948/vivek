@@ -1,2 +1,3 @@
 1st line to master
 2nd line to b1
+new line to b1
