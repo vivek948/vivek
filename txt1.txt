@@ -1,3 +1,6 @@
-1st line to master
-2nd line to b1
-new line to b1
+class Simple{
+public static void main(String args[]) throws InterruptedException{
+Thread.sleep(10000);
+System.out.println("Hello Java");
+}
+}
